@@ -1,0 +1,9 @@
+Hell Climb – CSC 329 – Gameplay Instructions
+‘D’ – Move Right
+‘A’ – Move Left
+‘Space’ OR ‘Right-Mouse Click’ – Jump
+‘M’ – Mute Music
+Additional Information:
+- Player may go off camera horizontally and appear on the other side
+- If an obstacle blocks a player from switching sides, they will die and restart
+- Cannonballs can also be used to help you climb faster
